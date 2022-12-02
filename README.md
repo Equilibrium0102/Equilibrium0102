@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Equilibrium0102
+- 👋 Hi, I’m @admin@netcrystals.at
 - 👀 I’m interested in materials science, physics, mathematics and Java programming.
 - 🌱 I’m currently learning Netbeans Module programming, Java API design and crystallography.
 - 💞️ I’m looking to collaborate on Netbeans Module programming, crystallography and material science software.
