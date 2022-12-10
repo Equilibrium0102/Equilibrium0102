@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @admin@netcrystals.at
+- 👋 Hi, I’m the lead developer of Netcrystals.
 - 👀 I’m interested in materials science, physics, mathematics and Java programming.
 - 🌱 I’m currently learning Netbeans Module programming, Java API design and crystallography.
 - 💞️ I’m looking to collaborate on Netbeans Module programming, crystallography and material science software.
